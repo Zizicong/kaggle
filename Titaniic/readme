@@ -1,0 +1,4 @@
+代码:泰坦尼克生存预测-code.ipynb
+EDA文档:数据探索分析(EDA).ipynb
+训练集和测试集:train.csv,test.csv
+提交文档:rfc_predict.csv
